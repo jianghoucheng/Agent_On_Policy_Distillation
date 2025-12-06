@@ -1,0 +1,6 @@
+{"time":"2025-12-05T20:37:38.756004523+08:00","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmp6howncs2/port-185740.txt","pid":185740,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-12-05T20:37:38.756377581+08:00","level":"INFO","msg":"server: will exit if parent process dies","ppid":185740}
+{"time":"2025-12-05T20:37:38.756370604+08:00","level":"INFO","msg":"server: accepting connections","addr":{"Name":"/tmp/wandb-185740-192401-1856428608/socket","Net":"unix"}}
+{"time":"2025-12-05T20:37:38.944659406+08:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(@)"}
+{"time":"2025-12-05T20:37:38.947516122+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"5qinw90x","id":"1(@)"}
+{"time":"2025-12-05T20:37:40.273916267+08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"5qinw90x","id":"1(@)"}

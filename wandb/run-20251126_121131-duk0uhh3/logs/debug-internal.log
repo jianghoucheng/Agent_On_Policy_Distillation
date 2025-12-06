@@ -1,0 +1,113 @@
+{"time":"2025-11-26T12:11:32.18323016+08:00","level":"INFO","msg":"stream: starting","core version":"0.23.0"}
+{"time":"2025-11-26T12:11:32.749234392+08:00","level":"INFO","msg":"stream: created new stream","id":"duk0uhh3"}
+{"time":"2025-11-26T12:11:32.749310445+08:00","level":"INFO","msg":"handler: started","stream_id":"duk0uhh3"}
+{"time":"2025-11-26T12:11:32.749432083+08:00","level":"INFO","msg":"stream: started","id":"duk0uhh3"}
+{"time":"2025-11-26T12:11:32.749432926+08:00","level":"INFO","msg":"writer: started","stream_id":"duk0uhh3"}
+{"time":"2025-11-26T12:11:32.74944136+08:00","level":"INFO","msg":"sender: started","stream_id":"duk0uhh3"}
+{"time":"2025-11-26T12:12:23.800213668+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:12:31.009178776+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:12:40.309314885+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:12:53.736590147+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:13:17.678656979+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:13:56.166348521+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:15:01.875343607+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:15:09.000637774+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:15:18.919614636+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:15:33.376833491+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:15:57.468768415+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:16:38.095657193+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:17:43.171214403+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:19:23.28650061+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:19:30.477799787+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:19:40.336086168+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:19:54.296871146+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:20:18.960837604+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:20:56.195867447+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:22:01.260782669+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:23:06.319766835+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:24:38.283496696+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:24:45.709349852+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:24:55.148630017+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:25:09.152836287+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:25:33.308208945+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:26:10.848054408+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:27:15.907776215+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:28:20.96935036+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:30:38.27801779+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:30:45.518118912+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:30:55.039960401+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:31:08.771478595+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:31:31.144598171+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:32:13.152383768+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:33:53.280846505+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:34:00.420990922+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:34:09.564640993+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:34:24.099923998+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:34:47.12971703+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:35:29.221658194+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:36:34.281877245+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:37:39.350468792+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:38:44.410595039+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:39:49.47451038+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:41:23.27973226+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:41:30.553938073+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:41:40.109972144+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:41:55.155819112+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:42:17.380272332+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:42:56.451972236+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:44:01.983956006+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:44:09.529941913+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:44:19.272971984+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:44:34.275297061+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:44:59.044895813+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:45:40.542609249+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:46:45.60022535+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:48:23.272159724+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:48:30.730693173+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:48:39.832919026+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:48:54.071564815+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:49:17.906345573+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:49:58.232967291+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:51:03.289558657+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:52:23.277877131+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:52:30.820977685+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:52:39.967204047+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:52:53.962861161+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:54:38.277432947+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:54:45.418590031+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:54:55.316213471+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:55:08.439712498+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:55:32.05360052+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:56:11.82854076+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T12:57:16.884246894+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T13:00:55.099291658+08:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":462}
+{"time":"2025-11-26T13:00:55.099792758+08:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":18}
+{"time":"2025-11-26T13:00:55.10385516+08:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":589}
+{"time":"2025-11-26T13:00:55.104105659+08:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":4}
+{"time":"2025-11-26T13:00:55.120923678+08:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":658}
+{"time":"2025-11-26T13:00:55.122292976+08:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":12}
+{"time":"2025-11-26T13:00:55.12571994+08:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":757}
+{"time":"2025-11-26T13:00:55.126154375+08:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":20}
+{"time":"2025-11-26T13:08:38.275412272+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T13:08:45.349797543+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T13:08:54.759842563+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T13:09:09.640244114+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T13:09:31.046847184+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T13:10:11.864848885+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T13:11:16.922067932+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T13:11:53.477255946+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-11-26T13:12:00.74780695+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-11-26T13:12:10.623539277+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-11-26T13:12:21.98093641+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T13:12:24.450265427+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-11-26T13:12:47.317265875+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-11-26T13:13:27.039593786+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T13:13:31.370757522+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-11-26T13:14:32.09942428+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/demystify-agentic-rl/duk0uhh3/file_stream\": EOF"}
+{"time":"2025-11-26T13:14:36.432355649+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-11-26T13:17:07.616470107+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-11-26T13:17:08.064849063+08:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-11-26T13:17:08.067894747+08:00","level":"INFO","msg":"stream: closing","id":"duk0uhh3"}
+{"time":"2025-11-26T13:17:08.067904382+08:00","level":"INFO","msg":"handler: closed","stream_id":"duk0uhh3"}
+{"time":"2025-11-26T13:17:08.067999478+08:00","level":"INFO","msg":"sender: closed","stream_id":"duk0uhh3"}
+{"time":"2025-11-26T13:17:08.068013089+08:00","level":"INFO","msg":"stream: closed","id":"duk0uhh3"}

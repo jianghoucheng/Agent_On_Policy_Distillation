@@ -1,0 +1,11 @@
+wandb: Detected [openai] in use.
+wandb: Use W&B Weave for improved LLM call tracing. Weave is installed but not imported. Add `import weave` to the top of your script.
+wandb: For more information, check out the docs at: https://weave-docs.wandb.ai/
+Checkpoint tracker file does not exist: /data0/user10/Open-AgentRL/checkpoint/qwen3_4b_opd/latest_checkpointed_iteration.txt
+Training from scratch
+test_gen_batch meta info: {'eos_token_id': 151645, 'pad_token_id': 151643, 'recompute_log_prob': False, 'do_sample': False, 'validate': True, 'global_steps': 0}
+validation generation end
+len reward_extra_infos_dict['reward']: 1920
+len reward_extra_infos_dict['score']: 1920
+len reward_extra_infos_dict['acc']: 1920
+len reward_extra_infos_dict['pred']: 1920

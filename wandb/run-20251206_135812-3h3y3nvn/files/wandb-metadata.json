@@ -1,0 +1,103 @@
+{
+  "os": "Linux-5.15.0-94-generic-x86_64-with-glibc2.35",
+  "python": "CPython 3.10.19",
+  "startedAt": "2025-12-06T05:58:12.492571Z",
+  "args": [
+    "data.train_files=/data0/user10/ReTool-SFT/data/train-00000-of-00001.parquet",
+    "data.val_files=/data0/user10/ReTool-SFT/data/train-00000-of-00001.parquet",
+    "data.max_length=16384",
+    "data.train_batch_size=32",
+    "data.multiturn.enable=true",
+    "data.multiturn.messages_key=messages",
+    "data.multiturn.tools_key=tools",
+    "data.micro_batch_size_per_gpu=4",
+    "model.partial_pretrain=Qwen/Qwen3-1.7B",
+    "model.strategy=fsdp",
+    "trainer.default_local_dir=/data0/user10/Open-AgentRL/checkpoint/multiturn-sft-qwen-3-1.7b",
+    "trainer.project_name=tir-sft",
+    "trainer.experiment_name=multiturn-sft-qwen-3-1.7b",
+    "trainer.logger=[\"console\",\"wandb\"]",
+    "trainer.total_epochs=6",
+    "trainer.save_freq=186",
+    "ulysses_sequence_parallel_size=4",
+    "use_remove_padding=true"
+  ],
+  "program": "-m verl.trainer.fsdp_sft_trainer",
+  "email": "1305345959@qq.com",
+  "root": "/data0/user10/Open-AgentRL",
+  "host": "pm-ccec",
+  "executable": "/data0/user10/miniconda3/envs/verl/bin/python3.10",
+  "cpu_count": 64,
+  "cpu_count_logical": 128,
+  "gpu": "NVIDIA A800-SXM4-40GB",
+  "gpu_count": 8,
+  "disk": {
+    "/": {
+      "total": "107321753600",
+      "used": "42374950912"
+    }
+  },
+  "memory": {
+    "total": "1081259905024"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA A800-SXM4-40GB",
+      "memoryTotal": "42949672960",
+      "cudaCores": 6912,
+      "architecture": "Ampere",
+      "uuid": "GPU-95e2a285-a82f-2a93-4989-cdd16543072c"
+    },
+    {
+      "name": "NVIDIA A800-SXM4-40GB",
+      "memoryTotal": "42949672960",
+      "cudaCores": 6912,
+      "architecture": "Ampere",
+      "uuid": "GPU-ac244db5-b08d-10b2-2a09-d191127ba75b"
+    },
+    {
+      "name": "NVIDIA A800-SXM4-40GB",
+      "memoryTotal": "42949672960",
+      "cudaCores": 6912,
+      "architecture": "Ampere",
+      "uuid": "GPU-d0c70121-f46d-686e-3022-43ff8a00117f"
+    },
+    {
+      "name": "NVIDIA A800-SXM4-40GB",
+      "memoryTotal": "42949672960",
+      "cudaCores": 6912,
+      "architecture": "Ampere",
+      "uuid": "GPU-f6750329-de57-7637-30e8-09e988ddacd1"
+    },
+    {
+      "name": "NVIDIA A800-SXM4-40GB",
+      "memoryTotal": "42949672960",
+      "cudaCores": 6912,
+      "architecture": "Ampere",
+      "uuid": "GPU-bbfa2eb7-23a9-845e-18f8-3a9ee6ba2f5b"
+    },
+    {
+      "name": "NVIDIA A800-SXM4-40GB",
+      "memoryTotal": "42949672960",
+      "cudaCores": 6912,
+      "architecture": "Ampere",
+      "uuid": "GPU-058d4fdb-d7c3-4d52-2b8a-2b02e6c18d01"
+    },
+    {
+      "name": "NVIDIA A800-SXM4-40GB",
+      "memoryTotal": "42949672960",
+      "cudaCores": 6912,
+      "architecture": "Ampere",
+      "uuid": "GPU-09a3b7c6-c2ec-f034-c971-7cbf4d6a2818"
+    },
+    {
+      "name": "NVIDIA A800-SXM4-40GB",
+      "memoryTotal": "42949672960",
+      "cudaCores": 6912,
+      "architecture": "Ampere",
+      "uuid": "GPU-c43a00fa-2137-6b0f-5e43-50bd98be6767"
+    }
+  ],
+  "cudaVersion": "12.2",
+  "writerId": "wc2p5dkr87b0w6t0xd3dbgko8zohevwa"
+}

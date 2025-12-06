@@ -1,0 +1,8 @@
+{"time":"2025-11-29T19:00:44.620572826+08:00","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmplubywc9j/port-1595816.txt","pid":1595816,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-11-29T19:00:44.620963588+08:00","level":"INFO","msg":"server: will exit if parent process dies","ppid":1595816}
+{"time":"2025-11-29T19:00:44.620966624+08:00","level":"INFO","msg":"server: accepting connections","addr":{"Name":"/tmp/wandb-1595816-1604896-3379079404/socket","Net":"unix"}}
+{"time":"2025-11-29T19:00:44.808672009+08:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(@)"}
+{"time":"2025-11-29T19:00:44.81209704+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"bccr12wl","id":"1(@)"}
+{"time":"2025-11-29T19:00:45.529422083+08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"bccr12wl","id":"1(@)"}
+{"time":"2025-11-29T19:07:33.981388717+08:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"bccr12wl","id":"1(@)"}
+{"time":"2025-11-29T19:07:33.981653409+08:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"bccr12wl","id":"1(@)"}

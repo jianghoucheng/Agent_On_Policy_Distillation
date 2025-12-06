@@ -1,0 +1,26 @@
+tools:
+  - class_name: "recipe.retool.retool.CustomSandboxFusionTool"
+    config:
+      sandbox_fusion_url: "https://sd4a8bq819ma6giel1p30.apigateway-cn-beijing.volceapi.com/run_code" #"https://sd4a8bq819ma6giel1p30.apigateway-cn-beijing.volceapi.com/run_code"  "http://localhost:8080/execute"
+      num_workers: 256
+      enable_global_rate_limit: true
+      rate_limit: 256
+      default_timeout: 30
+      default_language: "python"
+      memory_limit_mb: 2048
+      type: native
+      use_local_flask: false
+      local_flask_timeout: 120
+
+    tool_schema:
+      type: "function"
+      function:
+        name: "code_interpreter"
+        description: "A tool for executing code."
+        parameters:
+          type: "object"
+          properties:
+            code:
+              type: "string"
+              description: "The code to execute."
+          required: ["code"]

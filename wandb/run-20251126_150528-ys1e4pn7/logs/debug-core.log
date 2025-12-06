@@ -1,0 +1,5 @@
+{"time":"2025-11-26T15:05:28.95304982+08:00","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpofhmvy05/port-4044664.txt","pid":4044664,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-11-26T15:05:28.953444762+08:00","level":"INFO","msg":"server: will exit if parent process dies","ppid":4044664}
+{"time":"2025-11-26T15:05:28.95343887+08:00","level":"INFO","msg":"server: accepting connections","addr":{"Name":"/tmp/wandb-4044664-4052513-3644827219/socket","Net":"unix"}}
+{"time":"2025-11-26T15:05:29.147273259+08:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(@)"}
+{"time":"2025-11-26T15:05:29.151192598+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"ys1e4pn7","id":"1(@)"}

@@ -1,0 +1,21 @@
+{"time":"2025-12-01T21:24:18.176266365+08:00","level":"INFO","msg":"stream: starting","core version":"0.23.0"}
+{"time":"2025-12-01T21:24:18.907796168+08:00","level":"INFO","msg":"stream: created new stream","id":"b91ltsnz"}
+{"time":"2025-12-01T21:24:18.907852105+08:00","level":"INFO","msg":"handler: started","stream_id":"b91ltsnz"}
+{"time":"2025-12-01T21:24:18.907942044+08:00","level":"INFO","msg":"stream: started","id":"b91ltsnz"}
+{"time":"2025-12-01T21:24:18.907944604+08:00","level":"INFO","msg":"writer: started","stream_id":"b91ltsnz"}
+{"time":"2025-12-01T21:24:18.907953912+08:00","level":"INFO","msg":"sender: started","stream_id":"b91ltsnz"}
+{"time":"2025-12-01T21:29:29.481400317+08:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":103}
+{"time":"2025-12-01T21:29:29.481793647+08:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":6}
+{"time":"2025-12-01T21:29:29.485804704+08:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":187}
+{"time":"2025-12-01T21:29:29.486210471+08:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":26}
+{"time":"2025-12-01T21:29:29.492021014+08:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":325}
+{"time":"2025-12-01T21:29:29.492559699+08:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":24}
+{"time":"2025-12-01T21:29:29.497915422+08:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":427}
+{"time":"2025-12-01T21:29:29.49831469+08:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":31}
+{"time":"2025-12-01T21:38:47.133122894+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/b91ltsnz/file_stream\": unexpected EOF"}
+{"time":"2025-12-01T21:56:35.0592263+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-12-01T21:57:06.728384321+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/b91ltsnz/file_stream\": read tcp 10.3.28.3:39032->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-12-01T22:29:59.179832084+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/b91ltsnz/file_stream\": read tcp 10.3.28.3:55336->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-12-01T22:30:05.180076028+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-12-01T22:30:37.679864437+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-12-01T23:08:21.171997913+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/b91ltsnz/file_stream\": unexpected EOF"}

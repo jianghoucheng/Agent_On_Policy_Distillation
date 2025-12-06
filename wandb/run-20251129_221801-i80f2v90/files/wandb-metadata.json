@@ -1,0 +1,107 @@
+{
+  "os": "Linux-5.15.0-94-generic-x86_64-with-glibc2.35",
+  "python": "CPython 3.10.19",
+  "startedAt": "2025-11-29T14:18:01.377371Z",
+  "args": [
+    "--node-ip-address=10.3.28.3",
+    "--node-manager-port=34567",
+    "--object-store-name=/tmp/ray/session_2025-11-29_22-15-44_079694_1805884/sockets/plasma_store",
+    "--raylet-name=/tmp/ray/session_2025-11-29_22-15-44_079694_1805884/sockets/raylet",
+    "--redis-address=None",
+    "--metrics-agent-port=63643",
+    "--logging-rotate-bytes=536870912",
+    "--logging-rotate-backup-count=5",
+    "--runtime-env-agent-port=61204",
+    "--gcs-address=10.3.28.3:58986",
+    "--session-name=session_2025-11-29_22-15-44_079694_1805884",
+    "--temp-dir=/tmp/ray",
+    "--webui=127.0.0.1:8265",
+    "--cluster-id=b62869935b7a5e8b37c5624f022c3a613a62885496adafad06a91bc3",
+    "--startup-token=128",
+    "--worker-launch-time-ms=1764425748453",
+    "--node-id=2d92b39a74f0b61573f2759d0db60b5e74f0531401a2891a2401295b",
+    "--runtime-env-hash=-2054348966"
+  ],
+  "program": "/data0/user10/miniconda3/envs/verl/lib/python3.10/site-packages/ray/_private/workers/default_worker.py",
+  "git": {
+    "remote": "https://github.com/Gen-Verse/Open-AgentRL.git",
+    "commit": "3aca69b3b4cb8f9467d8ebf607c9355bd9f26262"
+  },
+  "email": "1305345959@qq.com",
+  "root": "/data0/user10/Open-AgentRL",
+  "host": "pm-ccec",
+  "executable": "/data0/user10/miniconda3/envs/verl/bin/python3",
+  "cpu_count": 64,
+  "cpu_count_logical": 128,
+  "gpu": "NVIDIA A800-SXM4-40GB",
+  "gpu_count": 8,
+  "disk": {
+    "/": {
+      "total": "107321753600",
+      "used": "28903673856"
+    }
+  },
+  "memory": {
+    "total": "1081259905024"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA A800-SXM4-40GB",
+      "memoryTotal": "42949672960",
+      "cudaCores": 6912,
+      "architecture": "Ampere",
+      "uuid": "GPU-95e2a285-a82f-2a93-4989-cdd16543072c"
+    },
+    {
+      "name": "NVIDIA A800-SXM4-40GB",
+      "memoryTotal": "42949672960",
+      "cudaCores": 6912,
+      "architecture": "Ampere",
+      "uuid": "GPU-ac244db5-b08d-10b2-2a09-d191127ba75b"
+    },
+    {
+      "name": "NVIDIA A800-SXM4-40GB",
+      "memoryTotal": "42949672960",
+      "cudaCores": 6912,
+      "architecture": "Ampere",
+      "uuid": "GPU-d0c70121-f46d-686e-3022-43ff8a00117f"
+    },
+    {
+      "name": "NVIDIA A800-SXM4-40GB",
+      "memoryTotal": "42949672960",
+      "cudaCores": 6912,
+      "architecture": "Ampere",
+      "uuid": "GPU-f6750329-de57-7637-30e8-09e988ddacd1"
+    },
+    {
+      "name": "NVIDIA A800-SXM4-40GB",
+      "memoryTotal": "42949672960",
+      "cudaCores": 6912,
+      "architecture": "Ampere",
+      "uuid": "GPU-bbfa2eb7-23a9-845e-18f8-3a9ee6ba2f5b"
+    },
+    {
+      "name": "NVIDIA A800-SXM4-40GB",
+      "memoryTotal": "42949672960",
+      "cudaCores": 6912,
+      "architecture": "Ampere",
+      "uuid": "GPU-058d4fdb-d7c3-4d52-2b8a-2b02e6c18d01"
+    },
+    {
+      "name": "NVIDIA A800-SXM4-40GB",
+      "memoryTotal": "42949672960",
+      "cudaCores": 6912,
+      "architecture": "Ampere",
+      "uuid": "GPU-09a3b7c6-c2ec-f034-c971-7cbf4d6a2818"
+    },
+    {
+      "name": "NVIDIA A800-SXM4-40GB",
+      "memoryTotal": "42949672960",
+      "cudaCores": 6912,
+      "architecture": "Ampere",
+      "uuid": "GPU-c43a00fa-2137-6b0f-5e43-50bd98be6767"
+    }
+  ],
+  "cudaVersion": "12.2",
+  "writerId": "ny7pkx06ddookwv3vy2vvtvohk2z6id8"
+}

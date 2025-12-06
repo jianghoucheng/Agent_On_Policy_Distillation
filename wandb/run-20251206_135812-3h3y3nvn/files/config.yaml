@@ -1,0 +1,208 @@
+_wandb:
+    value:
+        cli_version: 0.23.0
+        e:
+            wc2p5dkr87b0w6t0xd3dbgko8zohevwa:
+                args:
+                    - data.train_files=/data0/user10/ReTool-SFT/data/train-00000-of-00001.parquet
+                    - data.val_files=/data0/user10/ReTool-SFT/data/train-00000-of-00001.parquet
+                    - data.max_length=16384
+                    - data.train_batch_size=32
+                    - data.multiturn.enable=true
+                    - data.multiturn.messages_key=messages
+                    - data.multiturn.tools_key=tools
+                    - data.micro_batch_size_per_gpu=4
+                    - model.partial_pretrain=Qwen/Qwen3-1.7B
+                    - model.strategy=fsdp
+                    - trainer.default_local_dir=/data0/user10/Open-AgentRL/checkpoint/multiturn-sft-qwen-3-1.7b
+                    - trainer.project_name=tir-sft
+                    - trainer.experiment_name=multiturn-sft-qwen-3-1.7b
+                    - trainer.logger=["console","wandb"]
+                    - trainer.total_epochs=6
+                    - trainer.save_freq=186
+                    - ulysses_sequence_parallel_size=4
+                    - use_remove_padding=true
+                cpu_count: 64
+                cpu_count_logical: 128
+                cudaVersion: "12.2"
+                disk:
+                    /:
+                        total: "107321753600"
+                        used: "42374950912"
+                email: 1305345959@qq.com
+                executable: /data0/user10/miniconda3/envs/verl/bin/python3.10
+                gpu: NVIDIA A800-SXM4-40GB
+                gpu_count: 8
+                gpu_nvidia:
+                    - architecture: Ampere
+                      cudaCores: 6912
+                      memoryTotal: "42949672960"
+                      name: NVIDIA A800-SXM4-40GB
+                      uuid: GPU-95e2a285-a82f-2a93-4989-cdd16543072c
+                    - architecture: Ampere
+                      cudaCores: 6912
+                      memoryTotal: "42949672960"
+                      name: NVIDIA A800-SXM4-40GB
+                      uuid: GPU-ac244db5-b08d-10b2-2a09-d191127ba75b
+                    - architecture: Ampere
+                      cudaCores: 6912
+                      memoryTotal: "42949672960"
+                      name: NVIDIA A800-SXM4-40GB
+                      uuid: GPU-d0c70121-f46d-686e-3022-43ff8a00117f
+                    - architecture: Ampere
+                      cudaCores: 6912
+                      memoryTotal: "42949672960"
+                      name: NVIDIA A800-SXM4-40GB
+                      uuid: GPU-f6750329-de57-7637-30e8-09e988ddacd1
+                    - architecture: Ampere
+                      cudaCores: 6912
+                      memoryTotal: "42949672960"
+                      name: NVIDIA A800-SXM4-40GB
+                      uuid: GPU-bbfa2eb7-23a9-845e-18f8-3a9ee6ba2f5b
+                    - architecture: Ampere
+                      cudaCores: 6912
+                      memoryTotal: "42949672960"
+                      name: NVIDIA A800-SXM4-40GB
+                      uuid: GPU-058d4fdb-d7c3-4d52-2b8a-2b02e6c18d01
+                    - architecture: Ampere
+                      cudaCores: 6912
+                      memoryTotal: "42949672960"
+                      name: NVIDIA A800-SXM4-40GB
+                      uuid: GPU-09a3b7c6-c2ec-f034-c971-7cbf4d6a2818
+                    - architecture: Ampere
+                      cudaCores: 6912
+                      memoryTotal: "42949672960"
+                      name: NVIDIA A800-SXM4-40GB
+                      uuid: GPU-c43a00fa-2137-6b0f-5e43-50bd98be6767
+                host: pm-ccec
+                memory:
+                    total: "1081259905024"
+                os: Linux-5.15.0-94-generic-x86_64-with-glibc2.35
+                program: -m verl.trainer.fsdp_sft_trainer
+                python: CPython 3.10.19
+                root: /data0/user10/Open-AgentRL
+                startedAt: "2025-12-06T05:58:12.492571Z"
+                writerId: wc2p5dkr87b0w6t0xd3dbgko8zohevwa
+        m: []
+        python_version: 3.10.19
+        t:
+            "1":
+                - 1
+                - 5
+                - 11
+                - 30
+                - 41
+                - 49
+                - 50
+                - 51
+                - 53
+                - 71
+                - 98
+                - 105
+            "2":
+                - 1
+                - 5
+                - 11
+                - 30
+                - 41
+                - 49
+                - 50
+                - 51
+                - 53
+                - 71
+                - 98
+                - 105
+            "3":
+                - 13
+                - 16
+                - 61
+            "4": 3.10.19
+            "5": 0.23.0
+            "6": 4.56.1
+            "12": 0.23.0
+            "13": linux-x86_64
+data:
+    value:
+        balance_dp_token: false
+        chat_template: null
+        custom_cls:
+            name: null
+            path: null
+        max_length: 16384
+        micro_batch_size: null
+        micro_batch_size_per_gpu: 4
+        multiturn:
+            enable: true
+            enable_thinking_key: enable_thinking
+            messages_key: messages
+            tools_key: tools
+        prompt_dict_keys: null
+        prompt_key: question
+        response_dict_keys: null
+        response_key: answer
+        train_batch_size: 32
+        train_files: /data0/user10/ReTool-SFT/data/train-00000-of-00001.parquet
+        truncation: error
+        use_shm: false
+        val_files: /data0/user10/ReTool-SFT/data/train-00000-of-00001.parquet
+model:
+    value:
+        enable_gradient_checkpointing: true
+        external_lib: null
+        fsdp_config:
+            cpu_offload: false
+            model_dtype: fp32
+            offload_params: false
+            wrap_policy:
+                min_num_params: 0
+        lora_alpha: 16
+        lora_rank: 0
+        partial_pretrain: Qwen/Qwen3-1.7B
+        strategy: fsdp
+        target_modules: all-linear
+        trust_remote_code: false
+        use_liger: false
+        use_shm: false
+optim:
+    value:
+        betas:
+            - 0.9
+            - 0.95
+        clip_grad: 1
+        lr: 1e-05
+        lr_scheduler: cosine
+        warmup_steps_ratio: 0.1
+        weight_decay: 0.01
+trainer:
+    value:
+        checkpoint:
+            load_contents:
+                - model
+                - optimizer
+                - extra
+            save_contents:
+                - model
+                - optimizer
+                - extra
+        default_hdfs_dir: null
+        default_local_dir: /data0/user10/Open-AgentRL/checkpoint/multiturn-sft-qwen-3-1.7b
+        device: cuda
+        experiment_name: multiturn-sft-qwen-3-1.7b
+        logger:
+            - console
+            - wandb
+        max_ckpt_to_keep: null
+        n_gpus_per_node: 8
+        nnodes: 1
+        project_name: tir-sft
+        resume_from_path: null
+        resume_mode: auto
+        save_freq: 186
+        seed: 1
+        test_freq: -1
+        total_epochs: 6
+        total_training_steps: null
+ulysses_sequence_parallel_size:
+    value: 4
+use_remove_padding:
+    value: true

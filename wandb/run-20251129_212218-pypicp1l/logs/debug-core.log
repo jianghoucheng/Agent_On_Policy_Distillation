@@ -1,0 +1,6 @@
+{"time":"2025-11-29T21:22:19.023219731+08:00","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpbzxu7ibv/port-1718540.txt","pid":1718540,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-11-29T21:22:19.023620965+08:00","level":"INFO","msg":"server: will exit if parent process dies","ppid":1718540}
+{"time":"2025-11-29T21:22:19.023625211+08:00","level":"INFO","msg":"server: accepting connections","addr":{"Name":"/tmp/wandb-1718540-1725471-1260390693/socket","Net":"unix"}}
+{"time":"2025-11-29T21:22:19.211456363+08:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(@)"}
+{"time":"2025-11-29T21:22:19.214434698+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"pypicp1l","id":"1(@)"}
+{"time":"2025-11-29T21:22:19.922102084+08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"pypicp1l","id":"1(@)"}

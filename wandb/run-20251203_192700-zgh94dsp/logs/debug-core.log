@@ -1,0 +1,6 @@
+{"time":"2025-12-03T19:27:00.456707541+08:00","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmp5ze0c164/port-3804382.txt","pid":3804382,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-12-03T19:27:00.457079438+08:00","level":"INFO","msg":"server: will exit if parent process dies","ppid":3804382}
+{"time":"2025-12-03T19:27:00.457085214+08:00","level":"INFO","msg":"server: accepting connections","addr":{"Name":"/tmp/wandb-3804382-3812644-1673094155/socket","Net":"unix"}}
+{"time":"2025-12-03T19:27:00.645196897+08:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(@)"}
+{"time":"2025-12-03T19:27:00.648106159+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"zgh94dsp","id":"1(@)"}
+{"time":"2025-12-03T19:27:01.435245212+08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"zgh94dsp","id":"1(@)"}

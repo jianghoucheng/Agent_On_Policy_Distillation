@@ -1,0 +1,5 @@
+{"time":"2025-11-30T14:36:28.762236593+08:00","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpnqqvazy1/port-2193003.txt","pid":2193003,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-11-30T14:36:28.762609509+08:00","level":"INFO","msg":"server: will exit if parent process dies","ppid":2193003}
+{"time":"2025-11-30T14:36:28.762615793+08:00","level":"INFO","msg":"server: accepting connections","addr":{"Name":"/tmp/wandb-2193003-2201883-2329001004/socket","Net":"unix"}}
+{"time":"2025-11-30T14:36:28.949409198+08:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(@)"}
+{"time":"2025-11-30T14:36:28.952314704+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"p60h6zt6","id":"1(@)"}

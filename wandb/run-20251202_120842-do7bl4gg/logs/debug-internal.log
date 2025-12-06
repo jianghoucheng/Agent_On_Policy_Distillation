@@ -1,0 +1,52 @@
+{"time":"2025-12-02T12:08:43.057623024+08:00","level":"INFO","msg":"stream: starting","core version":"0.23.0"}
+{"time":"2025-12-02T12:08:43.782962091+08:00","level":"INFO","msg":"stream: created new stream","id":"do7bl4gg"}
+{"time":"2025-12-02T12:08:43.783011237+08:00","level":"INFO","msg":"handler: started","stream_id":"do7bl4gg"}
+{"time":"2025-12-02T12:08:43.783105953+08:00","level":"INFO","msg":"stream: started","id":"do7bl4gg"}
+{"time":"2025-12-02T12:08:43.783115436+08:00","level":"INFO","msg":"writer: started","stream_id":"do7bl4gg"}
+{"time":"2025-12-02T12:08:43.783120266+08:00","level":"INFO","msg":"sender: started","stream_id":"do7bl4gg"}
+{"time":"2025-12-02T12:12:14.426591877+08:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":96}
+{"time":"2025-12-02T12:12:14.428045865+08:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":24}
+{"time":"2025-12-02T12:12:14.43123017+08:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":186}
+{"time":"2025-12-02T12:12:14.43220124+08:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":45}
+{"time":"2025-12-02T12:12:14.438541991+08:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":278}
+{"time":"2025-12-02T12:12:14.439190391+08:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":62}
+{"time":"2025-12-02T17:36:00.827415617+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/do7bl4gg/file_stream\": unexpected EOF"}
+{"time":"2025-12-02T17:53:39.365272895+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/do7bl4gg/file_stream\": unexpected EOF"}
+{"time":"2025-12-02T18:23:06.539181005+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/do7bl4gg/file_stream\": read tcp 10.3.28.3:51986->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-12-02T18:25:36.606056421+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/do7bl4gg/file_stream\": unexpected EOF"}
+{"time":"2025-12-02T18:45:08.22838901+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/do7bl4gg/file_stream\": unexpected EOF"}
+{"time":"2025-12-02T18:57:45.086723834+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-12-02T18:58:03.54848205+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/do7bl4gg/file_stream\": unexpected EOF"}
+{"time":"2025-12-02T19:01:45.089286304+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-12-02T19:02:32.106906626+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/do7bl4gg/file_stream\": read tcp 10.3.28.3:43374->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-12-02T22:30:47.685884918+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/do7bl4gg/file_stream\": unexpected EOF"}
+{"time":"2025-12-02T22:39:47.613173217+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/do7bl4gg/file_stream\": unexpected EOF"}
+{"time":"2025-12-02T22:42:43.275229648+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/do7bl4gg/file_stream\": unexpected EOF"}
+{"time":"2025-12-02T22:50:52.92745733+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/do7bl4gg/file_stream\": unexpected EOF"}
+{"time":"2025-12-02T22:55:00.378543946+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-12-02T22:55:32.878148308+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-12-02T22:56:07.076576039+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-12-02T23:26:36.453735644+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/do7bl4gg/file_stream\": unexpected EOF"}
+{"time":"2025-12-02T23:30:48.035598578+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/do7bl4gg/file_stream\": read tcp 10.3.28.3:42996->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-12-02T23:41:54.797385432+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/do7bl4gg/file_stream\": unexpected EOF"}
+{"time":"2025-12-03T07:41:15.726354159+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-12-03T09:13:00.806856135+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-12-03T09:57:49.054918399+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/do7bl4gg/file_stream\": unexpected EOF"}
+{"time":"2025-12-03T10:32:08.22582176+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/do7bl4gg/file_stream\": read tcp 10.3.28.3:41220->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-12-03T10:37:52.861970108+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/do7bl4gg/file_stream\": read tcp 10.3.28.3:40840->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-12-03T10:45:15.920346252+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-12-03T10:58:48.537908537+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/do7bl4gg/file_stream\": read tcp 10.3.28.3:53688->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-12-03T11:44:54.485181394+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/do7bl4gg/file_stream\": unexpected EOF"}
+{"time":"2025-12-03T11:57:07.228355728+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/do7bl4gg/file_stream\": unexpected EOF"}
+{"time":"2025-12-03T11:59:43.287098623+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/do7bl4gg/file_stream\": unexpected EOF"}
+{"time":"2025-12-03T12:36:12.430115236+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": unexpected EOF"}
+{"time":"2025-12-03T12:50:35.735261448+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/do7bl4gg/file_stream\": unexpected EOF"}
+{"time":"2025-12-03T13:08:49.991631789+08:00","level":"INFO","msg":"api: retrying HTTP error","status":408,"url":"https://api.wandb.ai/files/1305345959-ustc/retool_opd/do7bl4gg/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>408 Request Timeout</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Request Timeout</h1>\n<h2>Your client has taken too long to issue its request.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-12-03T13:20:52.379212052+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/do7bl4gg/file_stream\": unexpected EOF"}
+{"time":"2025-12-03T13:26:52.067908691+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/do7bl4gg/file_stream\": unexpected EOF"}
+{"time":"2025-12-03T13:31:58.457048786+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/do7bl4gg/file_stream\": read tcp 10.3.28.3:39842->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-12-03T13:45:51.651250959+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/do7bl4gg/file_stream\": read tcp 10.3.28.3:38844->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-12-03T13:52:46.185033481+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-12-03T13:57:20.204618648+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/do7bl4gg/file_stream\": unexpected EOF"}
+{"time":"2025-12-03T13:59:41.092672823+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/do7bl4gg/file_stream\": read tcp 10.3.28.3:54930->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-12-03T14:46:10.612279061+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/do7bl4gg/file_stream\": unexpected EOF"}

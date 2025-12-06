@@ -1,0 +1,6 @@
+{"time":"2025-11-29T21:22:19.214538074+08:00","level":"INFO","msg":"stream: starting","core version":"0.23.0"}
+{"time":"2025-11-29T21:22:19.921945938+08:00","level":"INFO","msg":"stream: created new stream","id":"pypicp1l"}
+{"time":"2025-11-29T21:22:19.922006791+08:00","level":"INFO","msg":"handler: started","stream_id":"pypicp1l"}
+{"time":"2025-11-29T21:22:19.92209493+08:00","level":"INFO","msg":"stream: started","id":"pypicp1l"}
+{"time":"2025-11-29T21:22:19.922107424+08:00","level":"INFO","msg":"writer: started","stream_id":"pypicp1l"}
+{"time":"2025-11-29T21:22:19.922106669+08:00","level":"INFO","msg":"sender: started","stream_id":"pypicp1l"}

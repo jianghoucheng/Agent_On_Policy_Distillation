@@ -1,0 +1,8 @@
+{"time":"2025-12-06T18:11:50.609504235+08:00","level":"INFO","msg":"main: starting server","port-filename":"/data0/user10/tmp/tmpcz7o40yw/port-1087623.txt","pid":1087623,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-12-06T18:11:50.609862895+08:00","level":"INFO","msg":"server: will exit if parent process dies","ppid":1087623}
+{"time":"2025-12-06T18:11:50.609859799+08:00","level":"INFO","msg":"server: accepting connections","addr":{"Name":"/data0/user10/tmp/wandb-1087623-1097490-2264420490/socket","Net":"unix"}}
+{"time":"2025-12-06T18:11:50.797239152+08:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(@)"}
+{"time":"2025-12-06T18:11:50.800190416+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"mvy4t0mj","id":"1(@)"}
+{"time":"2025-12-06T18:11:51.47279865+08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"mvy4t0mj","id":"1(@)"}
+{"time":"2025-12-06T18:16:50.858833866+08:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"mvy4t0mj","id":"1(@)"}
+{"time":"2025-12-06T18:16:50.859362935+08:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"mvy4t0mj","id":"1(@)"}

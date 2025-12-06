@@ -1,0 +1,26 @@
+2025-11-30 02:54:06,567 INFO    MainThread:1958786 [wandb_setup.py:_flush():80] Current SDK version is 0.23.0
+2025-11-30 02:54:06,567 INFO    MainThread:1958786 [wandb_setup.py:_flush():80] Configure stats pid to 1958786
+2025-11-30 02:54:06,567 INFO    MainThread:1958786 [wandb_setup.py:_flush():80] Loading settings from /data0/user10/.config/wandb/settings
+2025-11-30 02:54:06,567 INFO    MainThread:1958786 [wandb_setup.py:_flush():80] Loading settings from /data0/user10/Open-AgentRL/wandb/settings
+2025-11-30 02:54:06,568 INFO    MainThread:1958786 [wandb_setup.py:_flush():80] Loading settings from environment variables
+2025-11-30 02:54:06,568 INFO    MainThread:1958786 [wandb_init.py:setup_run_log_directory():713] Logging user logs to /data0/user10/Open-AgentRL/wandb/run-20251130_025406-dq9a4cex/logs/debug.log
+2025-11-30 02:54:06,568 INFO    MainThread:1958786 [wandb_init.py:setup_run_log_directory():714] Logging internal logs to /data0/user10/Open-AgentRL/wandb/run-20251130_025406-dq9a4cex/logs/debug-internal.log
+2025-11-30 02:54:06,568 INFO    MainThread:1958786 [wandb_init.py:init():840] calling init triggers
+2025-11-30 02:54:06,568 INFO    MainThread:1958786 [wandb_init.py:init():845] wandb.init called with sweep_config: {}
+config: {'data': {'train_batch_size': 32, 'micro_batch_size': None, 'micro_batch_size_per_gpu': 4, 'train_files': '/data0/user10/ReTool-SFT/data/train-00000-of-00001.parquet', 'val_files': '/data0/user10/ReTool-SFT/data/train-00000-of-00001.parquet', 'prompt_key': 'question', 'response_key': 'answer', 'prompt_dict_keys': None, 'response_dict_keys': None, 'multiturn': {'enable': True, 'messages_key': 'messages', 'tools_key': 'tools', 'enable_thinking_key': 'enable_thinking'}, 'max_length': 16384, 'truncation': 'error', 'balance_dp_token': False, 'chat_template': None, 'custom_cls': {'path': None, 'name': None}, 'use_shm': False, 'apply_chat_template_kwargs': {}}, 'model': {'partial_pretrain': 'Qwen/Qwen2.5-3B-Instruct', 'use_shm': False, 'fsdp_config': {'model_dtype': 'fp32', 'wrap_policy': {'min_num_params': 0}, 'cpu_offload': False, 'offload_params': False}, 'external_lib': None, 'enable_gradient_checkpointing': True, 'trust_remote_code': False, 'lora_rank': 0, 'lora_alpha': 16, 'target_modules': 'all-linear', 'use_liger': False, 'strategy': 'fsdp'}, 'optim': {'lr': 1e-05, 'betas': [0.9, 0.95], 'weight_decay': 0.01, 'warmup_steps_ratio': 0.1, 'clip_grad': 1.0, 'lr_scheduler': 'cosine'}, 'ulysses_sequence_parallel_size': 4, 'use_remove_padding': True, 'trainer': {'default_local_dir': '/data0/user10/Open-AgentRL/checkpoint/multiturn-sft-qwen-2.5-3b-instruct', 'default_hdfs_dir': None, 'project_name': 'tir-sft', 'experiment_name': 'multiturn-sft-qwen-2.5-3b-instruct', 'total_epochs': 6, 'total_training_steps': None, 'logger': ['console', 'wandb'], 'seed': 1, 'save_freq': 186, 'test_freq': -1, 'nnodes': 1, 'n_gpus_per_node': 8, 'max_ckpt_to_keep': None, 'resume_mode': 'auto', 'resume_from_path': None, 'checkpoint': {'save_contents': ['model', 'optimizer', 'extra'], 'load_contents': ['model', 'optimizer', 'extra']}, 'device': 'cuda'}, '_wandb': {}}
+2025-11-30 02:54:06,568 INFO    MainThread:1958786 [wandb_init.py:init():888] starting backend
+2025-11-30 02:54:06,839 INFO    MainThread:1958786 [wandb_init.py:init():891] sending inform_init request
+2025-11-30 02:54:06,842 INFO    MainThread:1958786 [wandb_init.py:init():899] backend started and connected
+2025-11-30 02:54:06,844 INFO    MainThread:1958786 [wandb_init.py:init():969] updated telemetry
+2025-11-30 02:54:06,847 INFO    MainThread:1958786 [wandb_init.py:init():993] communicating run to backend with 90.0 second timeout
+2025-11-30 02:54:07,992 INFO    MainThread:1958786 [wandb_init.py:init():1040] starting run threads in backend
+2025-11-30 02:54:08,260 INFO    MainThread:1958786 [wandb_run.py:_console_start():2504] atexit reg
+2025-11-30 02:54:08,261 INFO    MainThread:1958786 [wandb_run.py:_redirect():2352] redirect: wrap_raw
+2025-11-30 02:54:08,261 INFO    MainThread:1958786 [wandb_run.py:_redirect():2421] Wrapping output streams.
+2025-11-30 02:54:08,261 INFO    MainThread:1958786 [wandb_run.py:_redirect():2444] Redirects installed.
+2025-11-30 02:54:08,262 INFO    MainThread:1958786 [wandb_init.py:init():1080] run started, returning control to user process
+2025-11-30 03:25:01,027 INFO    MainThread:1958786 [wandb_run.py:_finish():2270] finishing run 1305345959-ustc/tir-sft/dq9a4cex
+2025-11-30 03:25:01,028 INFO    MainThread:1958786 [wandb_run.py:_atexit_cleanup():2469] got exitcode: 0
+2025-11-30 03:25:01,028 INFO    MainThread:1958786 [wandb_run.py:_restore():2451] restore
+2025-11-30 03:25:01,028 INFO    MainThread:1958786 [wandb_run.py:_restore():2457] restore done
+2025-11-30 03:25:03,346 INFO    MainThread:1958786 [wandb_run.py:_footer_sync_info():3853] logging synced files

@@ -1,0 +1,8 @@
+{"time":"2025-12-06T19:31:43.668121764+08:00","level":"INFO","msg":"main: starting server","port-filename":"/data0/user10/tmp/tmpnco6jrwq/port-1327906.txt","pid":1327906,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-12-06T19:31:43.668528671+08:00","level":"INFO","msg":"server: will exit if parent process dies","ppid":1327906}
+{"time":"2025-12-06T19:31:43.668534702+08:00","level":"INFO","msg":"server: accepting connections","addr":{"Name":"/data0/user10/tmp/wandb-1327906-1335626-3365153575/socket","Net":"unix"}}
+{"time":"2025-12-06T19:31:43.855236316+08:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(@)"}
+{"time":"2025-12-06T19:31:43.858126066+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"f1g2hmj9","id":"1(@)"}
+{"time":"2025-12-06T19:31:44.527035399+08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"f1g2hmj9","id":"1(@)"}
+{"time":"2025-12-06T19:36:46.943458514+08:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"f1g2hmj9","id":"1(@)"}
+{"time":"2025-12-06T19:36:46.943860632+08:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"f1g2hmj9","id":"1(@)"}

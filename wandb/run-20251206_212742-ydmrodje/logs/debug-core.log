@@ -1,0 +1,8 @@
+{"time":"2025-12-06T21:27:42.239072089+08:00","level":"INFO","msg":"main: starting server","port-filename":"/data0/user10/tmp/tmpgzryp8qv/port-1556787.txt","pid":1556787,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-12-06T21:27:42.239459798+08:00","level":"INFO","msg":"server: will exit if parent process dies","ppid":1556787}
+{"time":"2025-12-06T21:27:42.23944379+08:00","level":"INFO","msg":"server: accepting connections","addr":{"Name":"/data0/user10/tmp/wandb-1556787-1566966-1773780975/socket","Net":"unix"}}
+{"time":"2025-12-06T21:27:42.427929728+08:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(@)"}
+{"time":"2025-12-06T21:27:42.430963614+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"ydmrodje","id":"1(@)"}
+{"time":"2025-12-06T21:27:43.111314743+08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"ydmrodje","id":"1(@)"}
+{"time":"2025-12-06T21:29:38.596797804+08:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"ydmrodje","id":"1(@)"}
+{"time":"2025-12-06T21:29:38.597036688+08:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"ydmrodje","id":"1(@)"}

@@ -1,0 +1,8 @@
+{"time":"2025-12-06T19:18:52.427035778+08:00","level":"INFO","msg":"main: starting server","port-filename":"/data0/user10/tmp/tmp6v_5xo7d/port-1302427.txt","pid":1302427,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-12-06T19:18:52.427408187+08:00","level":"INFO","msg":"server: will exit if parent process dies","ppid":1302427}
+{"time":"2025-12-06T19:18:52.427410509+08:00","level":"INFO","msg":"server: accepting connections","addr":{"Name":"/data0/user10/tmp/wandb-1302427-1310216-3533885890/socket","Net":"unix"}}
+{"time":"2025-12-06T19:18:52.615621699+08:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(@)"}
+{"time":"2025-12-06T19:18:52.619108347+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"dszlcub0","id":"1(@)"}
+{"time":"2025-12-06T19:18:53.296735893+08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"dszlcub0","id":"1(@)"}
+{"time":"2025-12-06T19:24:31.606790606+08:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"dszlcub0","id":"1(@)"}
+{"time":"2025-12-06T19:24:31.607284582+08:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"dszlcub0","id":"1(@)"}

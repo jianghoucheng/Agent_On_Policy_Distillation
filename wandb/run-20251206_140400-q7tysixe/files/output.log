@@ -1,0 +1,113 @@
+Epoch 1/6:  50%|█████████████████████████████████████████████████████████████████████████████████████████████▌                                                                                             | 31/62 [01:53<01:53,  3.65s/it]
+step:1 - train/loss:0.8957300186157227 - train/lr(1e-3):0.0002702702702702703 - train/time(s):4.846455812454224
+step:2 - train/loss:0.8740642070770264 - train/lr(1e-3):0.0005405405405405405 - train/time(s):3.345451831817627
+step:3 - train/loss:0.9717065095901489 - train/lr(1e-3):0.0008108108108108109 - train/time(s):3.4553029537200928
+step:4 - train/loss:0.8279696702957153 - train/lr(1e-3):0.001081081081081081 - train/time(s):3.947127103805542
+step:5 - train/loss:0.8449870944023132 - train/lr(1e-3):0.0013513513513513514 - train/time(s):3.255894899368286
+step:6 - train/loss:0.7374059557914734 - train/lr(1e-3):0.0016216216216216218 - train/time(s):3.7247560024261475
+step:7 - train/loss:0.8223665952682495 - train/lr(1e-3):0.0018918918918918923 - train/time(s):4.101116895675659
+step:8 - train/loss:0.7802638411521912 - train/lr(1e-3):0.002162162162162162 - train/time(s):3.254464626312256
+step:9 - train/loss:0.8830146193504333 - train/lr(1e-3):0.0024324324324324327 - train/time(s):3.2081539630889893
+step:10 - train/loss:0.7596754431724548 - train/lr(1e-3):0.002702702702702703 - train/time(s):4.044356107711792
+step:11 - train/loss:0.7260724902153015 - train/lr(1e-3):0.0029729729729729734 - train/time(s):3.3289825916290283
+step:12 - train/loss:0.7136777639389038 - train/lr(1e-3):0.0032432432432432435 - train/time(s):3.311382532119751
+step:13 - train/loss:0.7149701714515686 - train/lr(1e-3):0.0035135135135135136 - train/time(s):3.842228651046753
+step:14 - train/loss:0.5844045281410217 - train/lr(1e-3):0.0037837837837837846 - train/time(s):3.2888643741607666
+step:15 - train/loss:0.5762019753456116 - train/lr(1e-3):0.004054054054054054 - train/time(s):3.621094226837158
+step:16 - train/loss:0.5771884322166443 - train/lr(1e-3):0.004324324324324324 - train/time(s):3.9143753051757812
+step:17 - train/loss:0.5624023675918579 - train/lr(1e-3):0.004594594594594595 - train/time(s):3.43880295753479
+step:18 - train/loss:0.6112514138221741 - train/lr(1e-3):0.0048648648648648655 - train/time(s):3.4627037048339844
+step:19 - train/loss:0.5340805053710938 - train/lr(1e-3):0.005135135135135135 - train/time(s):4.057618618011475
+step:20 - train/loss:0.5422245264053345 - train/lr(1e-3):0.005405405405405406 - train/time(s):3.372511148452759
+step:21 - train/loss:0.4937260150909424 - train/lr(1e-3):0.005675675675675676 - train/time(s):3.5881621837615967
+step:22 - train/loss:0.5234339237213135 - train/lr(1e-3):0.005945945945945947 - train/time(s):4.005467891693115
+step:23 - train/loss:0.43546804785728455 - train/lr(1e-3):0.006216216216216216 - train/time(s):3.3613922595977783
+step:24 - train/loss:0.4911869466304779 - train/lr(1e-3):0.006486486486486487 - train/time(s):3.131859302520752
+step:25 - train/loss:0.48126012086868286 - train/lr(1e-3):0.006756756756756757 - train/time(s):4.185436010360718
+step:26 - train/loss:0.48644396662712097 - train/lr(1e-3):0.007027027027027027 - train/time(s):3.3173768520355225
+step:27 - train/loss:0.46521055698394775 - train/lr(1e-3):0.007297297297297298 - train/time(s):3.2869746685028076
+step:28 - train/loss:0.40614190697669983 - train/lr(1e-3):0.007567567567567569 - train/time(s):4.4500226974487305
+step:29 - train/loss:0.4518303871154785 - train/lr(1e-3):0.007837837837837838 - train/time(s):3.29065203666687
+step:30 - train/loss:0.476242333650589 - train/lr(1e-3):0.008108108108108109 - train/time(s):3.391629934310913
+step:31 - train/loss:0.45517364144325256 - train/lr(1e-3):0.008378378378378378 - train/time(s):3.8383638858795166
+step:32 - train/loss:0.49246716499328613 - train/lr(1e-3):0.008648648648648649 - train/time(s):3.6853461265563965
+step:33 - train/loss:0.4588146209716797 - train/lr(1e-3):0.00891891891891892 - train/time(s):3.321307420730591
+step:34 - train/loss:0.4733342230319977 - train/lr(1e-3):0.00918918918918919 - train/time(s):3.6627488136291504
+step:35 - train/loss:0.4826914370059967 - train/lr(1e-3):0.00945945945945946 - train/time(s):3.324995994567871
+step:36 - train/loss:0.44242262840270996 - train/lr(1e-3):0.009729729729729731 - train/time(s):3.4496302604675293
+Traceback (most recent call last):
+  File "/data0/user10/miniconda3/envs/verl/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/data0/user10/miniconda3/envs/verl/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/data0/user10/Open-AgentRL/verl/trainer/fsdp_sft_trainer.py", line 846, in <module>
+    main()
+  File "/data0/user10/miniconda3/envs/verl/lib/python3.10/site-packages/hydra/main.py", line 94, in decorated_main
+    _run_hydra(
+  File "/data0/user10/miniconda3/envs/verl/lib/python3.10/site-packages/hydra/_internal/utils.py", line 394, in _run_hydra
+    _run_app(
+  File "/data0/user10/miniconda3/envs/verl/lib/python3.10/site-packages/hydra/_internal/utils.py", line 457, in _run_app
+    run_and_report(
+  File "/data0/user10/miniconda3/envs/verl/lib/python3.10/site-packages/hydra/_internal/utils.py", line 220, in run_and_report
+    return func()
+  File "/data0/user10/miniconda3/envs/verl/lib/python3.10/site-packages/hydra/_internal/utils.py", line 458, in <lambda>
+    lambda: hydra.run(
+  File "/data0/user10/miniconda3/envs/verl/lib/python3.10/site-packages/hydra/_internal/hydra.py", line 119, in run
+    ret = run_job(
+  File "/data0/user10/miniconda3/envs/verl/lib/python3.10/site-packages/hydra/core/utils.py", line 186, in run_job
+    ret.return_value = task_function(task_cfg)
+  File "/data0/user10/Open-AgentRL/verl/trainer/fsdp_sft_trainer.py", line 822, in main
+    run_sft(config)
+  File "/data0/user10/Open-AgentRL/verl/trainer/fsdp_sft_trainer.py", line 815, in run_sft
+    trainer.fit()
+  File "/data0/user10/Open-AgentRL/verl/trainer/fsdp_sft_trainer.py", line 751, in fit
+    metric = self.training_step(data)
+  File "/data0/user10/Open-AgentRL/verl/trainer/fsdp_sft_trainer.py", line 469, in training_step
+    loss = self._compute_loss_and_backward(batch=micro_batch) / n_micro_batches
+  File "/data0/user10/Open-AgentRL/verl/trainer/fsdp_sft_trainer.py", line 451, in _compute_loss_and_backward
+    loss.backward()
+  File "/data0/user10/miniconda3/envs/verl/lib/python3.10/site-packages/torch/_tensor.py", line 648, in backward
+    torch.autograd.backward(
+  File "/data0/user10/miniconda3/envs/verl/lib/python3.10/site-packages/torch/autograd/__init__.py", line 353, in backward
+    _engine_run_backward(
+  File "/data0/user10/miniconda3/envs/verl/lib/python3.10/site-packages/torch/autograd/graph.py", line 824, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+KeyboardInterrupt
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/data0/user10/miniconda3/envs/verl/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+[rank0]:     return _run_code(code, main_globals, None,
+[rank0]:   File "/data0/user10/miniconda3/envs/verl/lib/python3.10/runpy.py", line 86, in _run_code
+[rank0]:     exec(code, run_globals)
+[rank0]:   File "/data0/user10/Open-AgentRL/verl/trainer/fsdp_sft_trainer.py", line 846, in <module>
+[rank0]:     main()
+[rank0]:   File "/data0/user10/miniconda3/envs/verl/lib/python3.10/site-packages/hydra/main.py", line 94, in decorated_main
+[rank0]:     _run_hydra(
+[rank0]:   File "/data0/user10/miniconda3/envs/verl/lib/python3.10/site-packages/hydra/_internal/utils.py", line 394, in _run_hydra
+[rank0]:     _run_app(
+[rank0]:   File "/data0/user10/miniconda3/envs/verl/lib/python3.10/site-packages/hydra/_internal/utils.py", line 457, in _run_app
+[rank0]:     run_and_report(
+[rank0]:   File "/data0/user10/miniconda3/envs/verl/lib/python3.10/site-packages/hydra/_internal/utils.py", line 220, in run_and_report
+[rank0]:     return func()
+[rank0]:   File "/data0/user10/miniconda3/envs/verl/lib/python3.10/site-packages/hydra/_internal/utils.py", line 458, in <lambda>
+[rank0]:     lambda: hydra.run(
+[rank0]:   File "/data0/user10/miniconda3/envs/verl/lib/python3.10/site-packages/hydra/_internal/hydra.py", line 119, in run
+[rank0]:     ret = run_job(
+[rank0]:   File "/data0/user10/miniconda3/envs/verl/lib/python3.10/site-packages/hydra/core/utils.py", line 186, in run_job
+[rank0]:     ret.return_value = task_function(task_cfg)
+[rank0]:   File "/data0/user10/Open-AgentRL/verl/trainer/fsdp_sft_trainer.py", line 822, in main
+[rank0]:     run_sft(config)
+[rank0]:   File "/data0/user10/Open-AgentRL/verl/trainer/fsdp_sft_trainer.py", line 815, in run_sft
+[rank0]:     trainer.fit()
+[rank0]:   File "/data0/user10/Open-AgentRL/verl/trainer/fsdp_sft_trainer.py", line 751, in fit
+[rank0]:     metric = self.training_step(data)
+[rank0]:   File "/data0/user10/Open-AgentRL/verl/trainer/fsdp_sft_trainer.py", line 469, in training_step
+[rank0]:     loss = self._compute_loss_and_backward(batch=micro_batch) / n_micro_batches
+[rank0]:   File "/data0/user10/Open-AgentRL/verl/trainer/fsdp_sft_trainer.py", line 451, in _compute_loss_and_backward
+[rank0]:     loss.backward()
+[rank0]:   File "/data0/user10/miniconda3/envs/verl/lib/python3.10/site-packages/torch/_tensor.py", line 648, in backward
+[rank0]:     torch.autograd.backward(
+[rank0]:   File "/data0/user10/miniconda3/envs/verl/lib/python3.10/site-packages/torch/autograd/__init__.py", line 353, in backward
+[rank0]:     _engine_run_backward(
+[rank0]:   File "/data0/user10/miniconda3/envs/verl/lib/python3.10/site-packages/torch/autograd/graph.py", line 824, in _engine_run_backward
+[rank0]:     return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+[rank0]: KeyboardInterrupt

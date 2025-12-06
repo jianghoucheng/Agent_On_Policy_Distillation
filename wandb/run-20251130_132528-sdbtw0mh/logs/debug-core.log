@@ -1,0 +1,6 @@
+{"time":"2025-11-30T13:25:28.505134083+08:00","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpd29__f1o/port-2123839.txt","pid":2123839,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-11-30T13:25:28.505496466+08:00","level":"INFO","msg":"server: will exit if parent process dies","ppid":2123839}
+{"time":"2025-11-30T13:25:28.505493659+08:00","level":"INFO","msg":"server: accepting connections","addr":{"Name":"/tmp/wandb-2123839-2130887-734036599/socket","Net":"unix"}}
+{"time":"2025-11-30T13:25:28.694116748+08:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(@)"}
+{"time":"2025-11-30T13:25:28.69704302+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"sdbtw0mh","id":"1(@)"}
+{"time":"2025-11-30T13:25:29.360837633+08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"sdbtw0mh","id":"1(@)"}

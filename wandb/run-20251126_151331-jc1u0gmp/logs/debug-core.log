@@ -1,0 +1,8 @@
+{"time":"2025-11-26T15:13:31.631242261+08:00","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpl_6d2nto/port-4078146.txt","pid":4078146,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-11-26T15:13:31.63228364+08:00","level":"INFO","msg":"server: will exit if parent process dies","ppid":4078146}
+{"time":"2025-11-26T15:13:31.632292203+08:00","level":"INFO","msg":"server: accepting connections","addr":{"Name":"/tmp/wandb-4078146-4085170-945271940/socket","Net":"unix"}}
+{"time":"2025-11-26T15:13:31.820627391+08:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(@)"}
+{"time":"2025-11-26T15:13:31.824530888+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"jc1u0gmp","id":"1(@)"}
+{"time":"2025-11-26T15:13:32.528005529+08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"jc1u0gmp","id":"1(@)"}
+{"time":"2025-11-26T15:22:33.678061729+08:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"jc1u0gmp","id":"1(@)"}
+{"time":"2025-11-26T15:22:33.678273301+08:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"jc1u0gmp","id":"1(@)"}

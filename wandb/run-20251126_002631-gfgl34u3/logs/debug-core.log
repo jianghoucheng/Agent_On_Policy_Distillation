@@ -1,0 +1,6 @@
+{"time":"2025-11-26T00:26:31.709824759+08:00","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpd16kmfzj/port-3732476.txt","pid":3732476,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-11-26T00:26:31.710184433+08:00","level":"INFO","msg":"server: will exit if parent process dies","ppid":3732476}
+{"time":"2025-11-26T00:26:31.710191847+08:00","level":"INFO","msg":"server: accepting connections","addr":{"Name":"/tmp/wandb-3732476-3740297-127726415/socket","Net":"unix"}}
+{"time":"2025-11-26T00:26:31.897127326+08:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(@)"}
+{"time":"2025-11-26T00:26:31.900755702+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"gfgl34u3","id":"1(@)"}
+{"time":"2025-11-26T00:26:32.467833284+08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"gfgl34u3","id":"1(@)"}

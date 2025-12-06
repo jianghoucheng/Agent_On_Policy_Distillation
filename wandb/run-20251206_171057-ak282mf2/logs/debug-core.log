@@ -1,0 +1,6 @@
+{"time":"2025-12-06T17:10:57.412967077+08:00","level":"INFO","msg":"main: starting server","port-filename":"/data0/user10/tmp/tmpexdlg7nk/port-931378.txt","pid":931378,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-12-06T17:10:57.413328048+08:00","level":"INFO","msg":"server: will exit if parent process dies","ppid":931378}
+{"time":"2025-12-06T17:10:57.413335119+08:00","level":"INFO","msg":"server: accepting connections","addr":{"Name":"/data0/user10/tmp/wandb-931378-940170-1350061428/socket","Net":"unix"}}
+{"time":"2025-12-06T17:10:57.6011018+08:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(@)"}
+{"time":"2025-12-06T17:10:57.604001669+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"ak282mf2","id":"1(@)"}
+{"time":"2025-12-06T17:10:58.271109971+08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"ak282mf2","id":"1(@)"}

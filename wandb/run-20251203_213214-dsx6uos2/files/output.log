@@ -1,0 +1,83 @@
+wandb: Detected [openai] in use.
+wandb: Use W&B Weave for improved LLM call tracing. Weave is installed but not imported. Add `import weave` to the top of your script.
+wandb: For more information, check out the docs at: https://weave-docs.wandb.ai/
+Checkpoint tracker file does not exist: /data0/user10/Open-AgentRL/checkpoint/qwen2_3b_opd/latest_checkpointed_iteration.txt
+Training from scratch
+Training Progress:   0%|          | 0/55990 [00:00<?, ?it/s]Unhandled error (suppress with 'RAY_IGNORE_UNHANDLED_ERRORS=1'): [36mray::WorkerDict.actor_rollout_update_actor()[39m (pid=3961424, ip=10.3.28.3, actor_id=7c5458b57ea74f027729973301000000, repr=<verl.single_controller.ray.base.WorkerDict object at 0x7f460c1b4220>)
+  File "/data0/user10/miniconda3/envs/verl/lib/python3.10/concurrent/futures/_base.py", line 458, in result
+    return self.__get_result()
+  File "/data0/user10/miniconda3/envs/verl/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+  File "/data0/user10/Open-AgentRL/verl/single_controller/ray/base.py", line 701, in func
+    return getattr(self.worker_dict[key], name)(*args, **kwargs)
+  File "/data0/user10/Open-AgentRL/verl/single_controller/base/decorator.py", line 430, in inner
+    return func(*args, **kwargs)
+  File "/data0/user10/Open-AgentRL/verl/utils/profiler/profile.py", line 256, in wrapper
+    return func(self_instance, *args, **kwargs_inner)
+  File "/data0/user10/Open-AgentRL/verl/workers/fsdp_workers.py", line 720, in update_actor
+    metrics = self.actor.update_policy(data=data)
+  File "/data0/user10/Open-AgentRL/verl/utils/profiler/performance.py", line 105, in f
+    return self.log(decorated_function, *args, **kwargs)
+  File "/data0/user10/Open-AgentRL/verl/utils/profiler/performance.py", line 118, in log
+    output = func(*args, **kwargs)
+  File "/data0/user10/Open-AgentRL/verl/workers/actor/dp_actor.py", line 483, in update_policy
+    loss.backward()
+  File "/data0/user10/miniconda3/envs/verl/lib/python3.10/site-packages/torch/_tensor.py", line 648, in backward
+    torch.autograd.backward(
+  File "/data0/user10/miniconda3/envs/verl/lib/python3.10/site-packages/torch/autograd/__init__.py", line 353, in backward
+    _engine_run_backward(
+  File "/data0/user10/miniconda3/envs/verl/lib/python3.10/site-packages/torch/autograd/graph.py", line 824, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 4.78 GiB. GPU 0 has a total capacity of 39.56 GiB of which 4.51 GiB is free. Including non-PyTorch memory, this process has 34.90 GiB memory in use. Of the allocated memory 50.32 GiB is allocated by PyTorch, with 80.29 MiB allocated in private pools (e.g., CUDA Graphs), and 169.70 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Unhandled error (suppress with 'RAY_IGNORE_UNHANDLED_ERRORS=1'): [36mray::WorkerDict.actor_rollout_update_actor()[39m (pid=3961426, ip=10.3.28.3, actor_id=2e300ae91e58fc289e777bbb01000000, repr=<verl.single_controller.ray.base.WorkerDict object at 0x7f0d28d74220>)
+  File "/data0/user10/miniconda3/envs/verl/lib/python3.10/concurrent/futures/_base.py", line 458, in result
+    return self.__get_result()
+  File "/data0/user10/miniconda3/envs/verl/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+  File "/data0/user10/Open-AgentRL/verl/single_controller/ray/base.py", line 701, in func
+    return getattr(self.worker_dict[key], name)(*args, **kwargs)
+  File "/data0/user10/Open-AgentRL/verl/single_controller/base/decorator.py", line 430, in inner
+    return func(*args, **kwargs)
+  File "/data0/user10/Open-AgentRL/verl/utils/profiler/profile.py", line 256, in wrapper
+    return func(self_instance, *args, **kwargs_inner)
+  File "/data0/user10/Open-AgentRL/verl/workers/fsdp_workers.py", line 720, in update_actor
+    metrics = self.actor.update_policy(data=data)
+  File "/data0/user10/Open-AgentRL/verl/utils/profiler/performance.py", line 105, in f
+    return self.log(decorated_function, *args, **kwargs)
+  File "/data0/user10/Open-AgentRL/verl/utils/profiler/performance.py", line 118, in log
+    output = func(*args, **kwargs)
+  File "/data0/user10/Open-AgentRL/verl/workers/actor/dp_actor.py", line 483, in update_policy
+    loss.backward()
+  File "/data0/user10/miniconda3/envs/verl/lib/python3.10/site-packages/torch/_tensor.py", line 648, in backward
+    torch.autograd.backward(
+  File "/data0/user10/miniconda3/envs/verl/lib/python3.10/site-packages/torch/autograd/__init__.py", line 353, in backward
+    _engine_run_backward(
+  File "/data0/user10/miniconda3/envs/verl/lib/python3.10/site-packages/torch/autograd/graph.py", line 824, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 4.78 GiB. GPU 0 has a total capacity of 39.56 GiB of which 4.51 GiB is free. Including non-PyTorch memory, this process has 34.90 GiB memory in use. Of the allocated memory 50.32 GiB is allocated by PyTorch, with 80.29 MiB allocated in private pools (e.g., CUDA Graphs), and 169.70 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Unhandled error (suppress with 'RAY_IGNORE_UNHANDLED_ERRORS=1'): [36mray::WorkerDict.actor_rollout_update_actor()[39m (pid=3961427, ip=10.3.28.3, actor_id=e90456a6ec6e2546edfc993c01000000, repr=<verl.single_controller.ray.base.WorkerDict object at 0x7f5938d8da20>)
+  File "/data0/user10/miniconda3/envs/verl/lib/python3.10/concurrent/futures/_base.py", line 458, in result
+    return self.__get_result()
+  File "/data0/user10/miniconda3/envs/verl/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+  File "/data0/user10/Open-AgentRL/verl/single_controller/ray/base.py", line 701, in func
+    return getattr(self.worker_dict[key], name)(*args, **kwargs)
+  File "/data0/user10/Open-AgentRL/verl/single_controller/base/decorator.py", line 430, in inner
+    return func(*args, **kwargs)
+  File "/data0/user10/Open-AgentRL/verl/utils/profiler/profile.py", line 256, in wrapper
+    return func(self_instance, *args, **kwargs_inner)
+  File "/data0/user10/Open-AgentRL/verl/workers/fsdp_workers.py", line 720, in update_actor
+    metrics = self.actor.update_policy(data=data)
+  File "/data0/user10/Open-AgentRL/verl/utils/profiler/performance.py", line 105, in f
+    return self.log(decorated_function, *args, **kwargs)
+  File "/data0/user10/Open-AgentRL/verl/utils/profiler/performance.py", line 118, in log
+    output = func(*args, **kwargs)
+  File "/data0/user10/Open-AgentRL/verl/workers/actor/dp_actor.py", line 483, in update_policy
+    loss.backward()
+  File "/data0/user10/miniconda3/envs/verl/lib/python3.10/site-packages/torch/_tensor.py", line 648, in backward
+    torch.autograd.backward(
+  File "/data0/user10/miniconda3/envs/verl/lib/python3.10/site-packages/torch/autograd/__init__.py", line 353, in backward
+    _engine_run_backward(
+  File "/data0/user10/miniconda3/envs/verl/lib/python3.10/site-packages/torch/autograd/graph.py", line 824, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 4.78 GiB. GPU 0 has a total capacity of 39.56 GiB of which 4.51 GiB is free. Including non-PyTorch memory, this process has 34.90 GiB memory in use. Of the allocated memory 50.32 GiB is allocated by PyTorch, with 80.29 MiB allocated in private pools (e.g., CUDA Graphs), and 169.70 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)

@@ -1,0 +1,18 @@
+{"time":"2025-11-26T00:33:14.949634427+08:00","level":"INFO","msg":"stream: starting","core version":"0.23.0"}
+{"time":"2025-11-26T00:33:15.587792322+08:00","level":"INFO","msg":"stream: created new stream","id":"3gg1r8jf"}
+{"time":"2025-11-26T00:33:15.587841176+08:00","level":"INFO","msg":"handler: started","stream_id":"3gg1r8jf"}
+{"time":"2025-11-26T00:33:15.587938438+08:00","level":"INFO","msg":"stream: started","id":"3gg1r8jf"}
+{"time":"2025-11-26T00:33:15.587950332+08:00","level":"INFO","msg":"sender: started","stream_id":"3gg1r8jf"}
+{"time":"2025-11-26T00:33:15.58795105+08:00","level":"INFO","msg":"writer: started","stream_id":"3gg1r8jf"}
+{"time":"2025-11-26T01:02:04.464333129+08:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":391}
+{"time":"2025-11-26T01:02:04.464868288+08:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":42}
+{"time":"2025-11-26T01:02:04.468818427+08:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":499}
+{"time":"2025-11-26T01:02:04.469507469+08:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":41}
+{"time":"2025-11-26T01:02:04.47637915+08:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":605}
+{"time":"2025-11-26T01:02:04.485693375+08:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":48}
+{"time":"2025-11-26T01:11:09.720520224+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-11-26T01:11:10.345521127+08:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-11-26T01:11:10.348825609+08:00","level":"INFO","msg":"stream: closing","id":"3gg1r8jf"}
+{"time":"2025-11-26T01:11:10.348836331+08:00","level":"INFO","msg":"handler: closed","stream_id":"3gg1r8jf"}
+{"time":"2025-11-26T01:11:10.348922855+08:00","level":"INFO","msg":"sender: closed","stream_id":"3gg1r8jf"}
+{"time":"2025-11-26T01:11:10.348927876+08:00","level":"INFO","msg":"stream: closed","id":"3gg1r8jf"}

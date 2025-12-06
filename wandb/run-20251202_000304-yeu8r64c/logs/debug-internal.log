@@ -1,0 +1,25 @@
+{"time":"2025-12-02T00:03:04.74689192+08:00","level":"INFO","msg":"stream: starting","core version":"0.23.0"}
+{"time":"2025-12-02T00:03:05.417791896+08:00","level":"INFO","msg":"stream: created new stream","id":"yeu8r64c"}
+{"time":"2025-12-02T00:03:05.417878622+08:00","level":"INFO","msg":"handler: started","stream_id":"yeu8r64c"}
+{"time":"2025-12-02T00:03:05.417983063+08:00","level":"INFO","msg":"stream: started","id":"yeu8r64c"}
+{"time":"2025-12-02T00:03:05.417985666+08:00","level":"INFO","msg":"writer: started","stream_id":"yeu8r64c"}
+{"time":"2025-12-02T00:03:05.41799491+08:00","level":"INFO","msg":"sender: started","stream_id":"yeu8r64c"}
+{"time":"2025-12-02T00:07:50.921306777+08:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":115}
+{"time":"2025-12-02T00:07:50.921824017+08:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":13}
+{"time":"2025-12-02T00:07:50.926239127+08:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":181}
+{"time":"2025-12-02T00:07:50.926853769+08:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":52}
+{"time":"2025-12-02T00:07:50.930066525+08:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":281}
+{"time":"2025-12-02T00:07:50.931005538+08:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":20}
+{"time":"2025-12-02T00:07:50.933319133+08:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":338}
+{"time":"2025-12-02T00:07:50.933845078+08:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":27}
+{"time":"2025-12-02T00:07:50.939491295+08:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":419}
+{"time":"2025-12-02T00:07:50.939944915+08:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":35}
+{"time":"2025-12-02T01:26:36.611686629+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-12-02T03:36:54.926284787+08:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/1305345959-ustc/retool_opd/yeu8r64c/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-12-02T11:08:37.036544444+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-12-02T11:09:02.658711369+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/yeu8r64c/file_stream\": unexpected EOF"}
+{"time":"2025-12-02T11:09:09.500965811+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-12-02T11:17:03.13862871+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/yeu8r64c/file_stream\": unexpected EOF"}
+{"time":"2025-12-02T11:17:07.15768401+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-12-02T11:38:42.176513333+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/yeu8r64c/file_stream\": unexpected EOF"}
+{"time":"2025-12-02T11:39:05.293593359+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/yeu8r64c/file_stream\": unexpected EOF"}

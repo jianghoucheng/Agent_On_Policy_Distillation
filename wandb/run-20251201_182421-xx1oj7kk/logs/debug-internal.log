@@ -1,0 +1,17 @@
+{"time":"2025-12-01T18:24:21.493002338+08:00","level":"INFO","msg":"stream: starting","core version":"0.23.0"}
+{"time":"2025-12-01T18:24:22.223586857+08:00","level":"INFO","msg":"stream: created new stream","id":"xx1oj7kk"}
+{"time":"2025-12-01T18:24:22.224460846+08:00","level":"INFO","msg":"handler: started","stream_id":"xx1oj7kk"}
+{"time":"2025-12-01T18:24:22.224569084+08:00","level":"INFO","msg":"stream: started","id":"xx1oj7kk"}
+{"time":"2025-12-01T18:24:22.224571297+08:00","level":"INFO","msg":"writer: started","stream_id":"xx1oj7kk"}
+{"time":"2025-12-01T18:24:22.22457839+08:00","level":"INFO","msg":"sender: started","stream_id":"xx1oj7kk"}
+{"time":"2025-12-01T18:29:00.692415984+08:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":117}
+{"time":"2025-12-01T18:29:00.693097029+08:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":18}
+{"time":"2025-12-01T18:29:00.69725013+08:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":182}
+{"time":"2025-12-01T18:29:00.697866333+08:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":39}
+{"time":"2025-12-01T18:29:00.703123246+08:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":296}
+{"time":"2025-12-01T18:29:00.705361514+08:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":85}
+{"time":"2025-12-01T18:29:00.709044472+08:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":443}
+{"time":"2025-12-01T18:29:00.709604518+08:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":11}
+{"time":"2025-12-01T18:36:49.601188642+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/xx1oj7kk/file_stream\": read tcp 10.3.28.3:56340->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-12-01T18:49:41.904662828+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/xx1oj7kk/file_stream\": unexpected EOF"}
+{"time":"2025-12-01T19:04:06.142447831+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/xx1oj7kk/file_stream\": read tcp 10.3.28.3:57918->35.186.228.49:443: read: connection reset by peer"}

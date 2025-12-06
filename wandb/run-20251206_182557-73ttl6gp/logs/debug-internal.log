@@ -1,0 +1,7 @@
+{"time":"2025-12-06T18:25:57.733253996+08:00","level":"INFO","msg":"stream: starting","core version":"0.23.0"}
+{"time":"2025-12-06T18:25:58.405680954+08:00","level":"INFO","msg":"stream: created new stream","id":"73ttl6gp"}
+{"time":"2025-12-06T18:25:58.405736145+08:00","level":"INFO","msg":"handler: started","stream_id":"73ttl6gp"}
+{"time":"2025-12-06T18:25:58.405836491+08:00","level":"INFO","msg":"stream: started","id":"73ttl6gp"}
+{"time":"2025-12-06T18:25:58.405847179+08:00","level":"INFO","msg":"writer: started","stream_id":"73ttl6gp"}
+{"time":"2025-12-06T18:25:58.405847881+08:00","level":"INFO","msg":"sender: started","stream_id":"73ttl6gp"}
+{"time":"2025-12-06T18:31:30.01339286+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/73ttl6gp/file_stream\": EOF"}

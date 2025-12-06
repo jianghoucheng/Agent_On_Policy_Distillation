@@ -1,0 +1,23 @@
+{"time":"2025-12-05T20:37:38.947608579+08:00","level":"INFO","msg":"stream: starting","core version":"0.23.0"}
+{"time":"2025-12-05T20:37:40.273709009+08:00","level":"INFO","msg":"stream: created new stream","id":"5qinw90x"}
+{"time":"2025-12-05T20:37:40.273769319+08:00","level":"INFO","msg":"handler: started","stream_id":"5qinw90x"}
+{"time":"2025-12-05T20:37:40.273907823+08:00","level":"INFO","msg":"stream: started","id":"5qinw90x"}
+{"time":"2025-12-05T20:37:40.273909452+08:00","level":"INFO","msg":"writer: started","stream_id":"5qinw90x"}
+{"time":"2025-12-05T20:37:40.273918104+08:00","level":"INFO","msg":"sender: started","stream_id":"5qinw90x"}
+{"time":"2025-12-05T20:42:19.27542893+08:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":104}
+{"time":"2025-12-05T20:42:19.27591517+08:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":15}
+{"time":"2025-12-05T20:42:19.279590005+08:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":155}
+{"time":"2025-12-05T20:42:19.279862687+08:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":9}
+{"time":"2025-12-05T20:42:19.28019177+08:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":219}
+{"time":"2025-12-05T20:42:19.28048762+08:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":12}
+{"time":"2025-12-05T20:42:19.284795244+08:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":303}
+{"time":"2025-12-05T20:42:19.285314318+08:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":39}
+{"time":"2025-12-05T20:42:19.290572229+08:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":382}
+{"time":"2025-12-05T20:42:19.300423438+08:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":75}
+{"time":"2025-12-05T20:46:09.837452805+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/5qinw90x/file_stream\": read tcp 10.3.28.3:41780->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-12-05T20:46:42.594910309+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/5qinw90x/file_stream\": unexpected EOF"}
+{"time":"2025-12-05T21:13:56.105773231+08:00","level":"ERROR","msg":"sender: sendStopStatus: failed to get run stopped status: context deadline exceeded (Client.Timeout or context cancellation while reading body)"}
+{"time":"2025-12-05T21:13:58.074730451+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/5qinw90x/file_stream\": unexpected EOF"}
+{"time":"2025-12-05T21:45:17.573069874+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/5qinw90x/file_stream\": unexpected EOF"}
+{"time":"2025-12-06T01:17:11.468326583+08:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/1305345959-ustc/retool_opd/5qinw90x/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-12-06T08:29:47.88300909+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/5qinw90x/file_stream\": unexpected EOF"}

@@ -1,0 +1,6 @@
+{"time":"2025-12-06T17:10:57.60409499+08:00","level":"INFO","msg":"stream: starting","core version":"0.23.0"}
+{"time":"2025-12-06T17:10:58.270946913+08:00","level":"INFO","msg":"stream: created new stream","id":"ak282mf2"}
+{"time":"2025-12-06T17:10:58.271007451+08:00","level":"INFO","msg":"handler: started","stream_id":"ak282mf2"}
+{"time":"2025-12-06T17:10:58.271102642+08:00","level":"INFO","msg":"stream: started","id":"ak282mf2"}
+{"time":"2025-12-06T17:10:58.271104693+08:00","level":"INFO","msg":"writer: started","stream_id":"ak282mf2"}
+{"time":"2025-12-06T17:10:58.271113922+08:00","level":"INFO","msg":"sender: started","stream_id":"ak282mf2"}

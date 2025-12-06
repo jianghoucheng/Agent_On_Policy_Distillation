@@ -1,0 +1,6 @@
+{"time":"2025-12-03T21:32:15.010358958+08:00","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmprdda0cfo/port-3956608.txt","pid":3956608,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-12-03T21:32:15.010748726+08:00","level":"INFO","msg":"server: will exit if parent process dies","ppid":3956608}
+{"time":"2025-12-03T21:32:15.010751339+08:00","level":"INFO","msg":"server: accepting connections","addr":{"Name":"/tmp/wandb-3956608-3965816-558591534/socket","Net":"unix"}}
+{"time":"2025-12-03T21:32:15.198793003+08:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(@)"}
+{"time":"2025-12-03T21:32:15.201695764+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"dsx6uos2","id":"1(@)"}
+{"time":"2025-12-03T21:32:15.902002293+08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"dsx6uos2","id":"1(@)"}

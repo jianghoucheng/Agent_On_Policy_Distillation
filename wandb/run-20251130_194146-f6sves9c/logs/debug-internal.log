@@ -1,0 +1,16 @@
+{"time":"2025-11-30T19:41:46.360197406+08:00","level":"INFO","msg":"stream: starting","core version":"0.23.0"}
+{"time":"2025-11-30T19:41:47.024541127+08:00","level":"INFO","msg":"stream: created new stream","id":"f6sves9c"}
+{"time":"2025-11-30T19:41:47.024598267+08:00","level":"INFO","msg":"handler: started","stream_id":"f6sves9c"}
+{"time":"2025-11-30T19:41:47.024723674+08:00","level":"INFO","msg":"stream: started","id":"f6sves9c"}
+{"time":"2025-11-30T19:41:47.024736983+08:00","level":"INFO","msg":"sender: started","stream_id":"f6sves9c"}
+{"time":"2025-11-30T19:41:47.024735829+08:00","level":"INFO","msg":"writer: started","stream_id":"f6sves9c"}
+{"time":"2025-11-30T19:44:54.27082373+08:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":95}
+{"time":"2025-11-30T19:44:54.271328893+08:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":18}
+{"time":"2025-11-30T19:44:54.275490193+08:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":161}
+{"time":"2025-11-30T19:44:54.277628453+08:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":63}
+{"time":"2025-11-30T19:44:54.28110581+08:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":293}
+{"time":"2025-11-30T19:44:54.281663754+08:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":42}
+{"time":"2025-11-30T20:20:03.084531297+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-11-30T20:22:33.158464209+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-11-30T20:23:05.611273261+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-11-30T21:09:16.209900741+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/f6sves9c/file_stream\": read tcp 10.3.28.3:53000->35.186.228.49:443: read: connection reset by peer"}

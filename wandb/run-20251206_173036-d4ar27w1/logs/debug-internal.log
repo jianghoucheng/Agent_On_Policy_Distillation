@@ -1,0 +1,13 @@
+{"time":"2025-12-06T17:30:37.025482219+08:00","level":"INFO","msg":"stream: starting","core version":"0.23.0"}
+{"time":"2025-12-06T17:30:37.694523487+08:00","level":"INFO","msg":"stream: created new stream","id":"d4ar27w1"}
+{"time":"2025-12-06T17:30:37.694583462+08:00","level":"INFO","msg":"handler: started","stream_id":"d4ar27w1"}
+{"time":"2025-12-06T17:30:37.694995852+08:00","level":"INFO","msg":"stream: started","id":"d4ar27w1"}
+{"time":"2025-12-06T17:30:37.695277397+08:00","level":"INFO","msg":"writer: started","stream_id":"d4ar27w1"}
+{"time":"2025-12-06T17:30:37.695279007+08:00","level":"INFO","msg":"sender: started","stream_id":"d4ar27w1"}
+{"time":"2025-12-06T17:36:54.234092693+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/1305345959-ustc/retool_opd/d4ar27w1/file_stream\": EOF"}
+{"time":"2025-12-06T17:37:18.636338458+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-12-06T17:37:19.288836545+08:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-12-06T17:37:19.291374091+08:00","level":"INFO","msg":"stream: closing","id":"d4ar27w1"}
+{"time":"2025-12-06T17:37:19.291383935+08:00","level":"INFO","msg":"handler: closed","stream_id":"d4ar27w1"}
+{"time":"2025-12-06T17:37:19.291458841+08:00","level":"INFO","msg":"sender: closed","stream_id":"d4ar27w1"}
+{"time":"2025-12-06T17:37:19.29146529+08:00","level":"INFO","msg":"stream: closed","id":"d4ar27w1"}

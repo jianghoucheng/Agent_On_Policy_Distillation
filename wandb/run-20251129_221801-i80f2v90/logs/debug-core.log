@@ -1,0 +1,6 @@
+{"time":"2025-11-29T22:18:01.428914191+08:00","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpdbmoeylc/port-1814533.txt","pid":1814533,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-11-29T22:18:01.429308286+08:00","level":"INFO","msg":"server: will exit if parent process dies","ppid":1814533}
+{"time":"2025-11-29T22:18:01.429314685+08:00","level":"INFO","msg":"server: accepting connections","addr":{"Name":"/tmp/wandb-1814533-1821930-1943743172/socket","Net":"unix"}}
+{"time":"2025-11-29T22:18:01.617180733+08:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(@)"}
+{"time":"2025-11-29T22:18:01.620124914+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"i80f2v90","id":"1(@)"}
+{"time":"2025-11-29T22:18:02.400044953+08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"i80f2v90","id":"1(@)"}

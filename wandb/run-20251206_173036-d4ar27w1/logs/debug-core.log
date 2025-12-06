@@ -1,0 +1,8 @@
+{"time":"2025-12-06T17:30:36.833731477+08:00","level":"INFO","msg":"main: starting server","port-filename":"/data0/user10/tmp/tmppuqldosg/port-989887.txt","pid":989887,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-12-06T17:30:36.834102827+08:00","level":"INFO","msg":"server: will exit if parent process dies","ppid":989887}
+{"time":"2025-12-06T17:30:36.834105526+08:00","level":"INFO","msg":"server: accepting connections","addr":{"Name":"/data0/user10/tmp/wandb-989887-998760-1518889564/socket","Net":"unix"}}
+{"time":"2025-12-06T17:30:37.022393667+08:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(@)"}
+{"time":"2025-12-06T17:30:37.025379271+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"d4ar27w1","id":"1(@)"}
+{"time":"2025-12-06T17:30:37.695013049+08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"d4ar27w1","id":"1(@)"}
+{"time":"2025-12-06T17:37:19.291343901+08:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"d4ar27w1","id":"1(@)"}
+{"time":"2025-12-06T17:37:19.291679284+08:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"d4ar27w1","id":"1(@)"}
