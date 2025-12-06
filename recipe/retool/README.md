@@ -44,11 +44,11 @@ After 250 steps, validation metrics:
 - val-aux/num_turns/mean: 8.3
 
 ## On-policy distillation
-- Student: `$HDFS_ROOT/checkpoint/DeepSeek-R1-Distill-Qwen-1.5B-TIR-SFT/global_step_372/huggingface`
+- Student: `JiangHoucheng/multiturn-sft-qwen-3-4b`
 - Teacher: `JoeYing/ReTool-DeepSeek-R1-Distill-Qwen-32B` (only used for log-prob scoring)
 
 ```bash
-bash recipe/retool/run_qwen2_1.5b_opd.sh
+bash recipe/retool/run_qwen3_4b_opd.sh
 ```
 
 The script reuses the GRPO data/reward stack but turns on `algorithm.use_kl_in_reward` so that the per-token reverse KL from the teacher is subtracted from the student advantages. Only the student-generated response tokens contribute to this penalty because `response_mask` trims out tool returns before the PPO loss is computed.
